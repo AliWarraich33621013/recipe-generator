@@ -19,7 +19,7 @@ export const mockRecipes: Recipe[] = [
     cookTime: "20 mins",
     servings: 4,
     difficulty: "Medium",
-    image: "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1588013273468-315900bafd4d?w=400&h=300&fit=crop",
     category: "Dinner",
     ingredients: [
       "400g spaghetti",
@@ -76,7 +76,7 @@ export const mockRecipes: Recipe[] = [
     cookTime: "25 mins",
     servings: 4,
     difficulty: "Hard",
-    image: "https://images.unsplash.com/photo-1541782432458-51d7ed8e63c2?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=400&h=300&fit=crop",
     category: "Dessert",
     ingredients: [
       "100g dark chocolate, chopped",
@@ -170,7 +170,7 @@ export const mockRecipes: Recipe[] = [
     cookTime: "5 mins",
     servings: 2,
     difficulty: "Easy",
-    image: "https://images.unsplash.com/photo-1553530979-d6cb40d7aa7e?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1505252585461-04db1eb84625?w=400&h=300&fit=crop",
     category: "Beverage",
     ingredients: [
       "1 banana, sliced",
@@ -197,7 +197,7 @@ export const mockRecipes: Recipe[] = [
     cookTime: "25 mins",
     servings: 4,
     difficulty: "Easy",
-    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=400&h=300&fit=crop",
     category: "Dinner",
     ingredients: [
       "1 lb ground beef",
