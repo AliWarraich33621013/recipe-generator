@@ -19,7 +19,7 @@ export const mockRecipes: Recipe[] = [
     cookTime: "20 mins",
     servings: 4,
     difficulty: "Medium",
-    image: "https://images.unsplash.com/photo-1588013273468-315900bafd4d?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=400&h=300&fit=crop",
     category: "Dinner",
     ingredients: [
       "400g spaghetti",
