@@ -189,5 +189,132 @@ export const mockRecipes: Recipe[] = [
       "Pour into glasses and garnish with fresh mint.",
       "Serve immediately while cold and fresh."
     ]
+  },
+  {
+    id: 7,
+    title: "Beef Tacos",
+    description: "Seasoned ground beef in soft tortillas with fresh toppings",
+    cookTime: "25 mins",
+    servings: 4,
+    difficulty: "Easy",
+    image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=300&fit=crop",
+    category: "Dinner",
+    ingredients: [
+      "1 lb ground beef",
+      "1 packet taco seasoning",
+      "8 soft flour tortillas",
+      "1 cup shredded lettuce",
+      "1 cup shredded cheddar cheese",
+      "2 tomatoes, diced",
+      "1 onion, diced",
+      "1 cup sour cream",
+      "1 lime, cut into wedges",
+      "Hot sauce to taste"
+    ],
+    instructions: [
+      "Brown ground beef in a large skillet over medium-high heat.",
+      "Drain excess fat and add taco seasoning with water as directed on packet.",
+      "Simmer until sauce thickens, about 5 minutes.",
+      "Warm tortillas in microwave or on a dry skillet.",
+      "Fill each tortilla with seasoned beef.",
+      "Top with lettuce, cheese, tomatoes, and onions.",
+      "Serve with sour cream, lime wedges, and hot sauce."
+    ]
+  },
+  {
+    id: 8,
+    title: "Mushroom Risotto",
+    description: "Creamy Italian rice dish with wild mushrooms and Parmesan",
+    cookTime: "35 mins",
+    servings: 4,
+    difficulty: "Hard",
+    image: "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=400&h=300&fit=crop",
+    category: "Dinner",
+    ingredients: [
+      "1½ cups Arborio rice",
+      "6 cups warm chicken stock",
+      "300g mixed wild mushrooms, sliced",
+      "1 medium onion, finely chopped",
+      "3 cloves garlic, minced",
+      "½ cup dry white wine",
+      "½ cup grated Parmesan cheese",
+      "3 tablespoons butter",
+      "2 tablespoons olive oil",
+      "Fresh parsley for garnish",
+      "Salt and pepper to taste"
+    ],
+    instructions: [
+      "Heat olive oil in a large pan and sauté mushrooms until golden. Set aside.",
+      "In the same pan, sauté onion until translucent, add garlic for 1 minute.",
+      "Add rice and stir for 2 minutes until grains are coated.",
+      "Pour in wine and stir until absorbed.",
+      "Add warm stock one ladle at a time, stirring constantly.",
+      "Continue until rice is creamy and al dente, about 18-20 minutes.",
+      "Stir in mushrooms, butter, and Parmesan.",
+      "Season with salt and pepper, garnish with parsley."
+    ]
+  },
+  {
+    id: 9,
+    title: "Greek Salad",
+    description: "Fresh Mediterranean salad with feta cheese and olives",
+    cookTime: "10 mins",
+    servings: 4,
+    difficulty: "Easy",
+    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop",
+    category: "Lunch",
+    ingredients: [
+      "4 large tomatoes, cut into wedges",
+      "1 cucumber, sliced",
+      "1 red onion, thinly sliced",
+      "200g feta cheese, cubed",
+      "½ cup Kalamata olives",
+      "¼ cup extra virgin olive oil",
+      "2 tablespoons red wine vinegar",
+      "1 teaspoon dried oregano",
+      "Salt and pepper to taste",
+      "Fresh oregano for garnish"
+    ],
+    instructions: [
+      "Arrange tomato wedges and cucumber slices on a large platter.",
+      "Scatter red onion slices over the vegetables.",
+      "Add feta cheese cubes and olives on top.",
+      "In a small bowl, whisk together olive oil, vinegar, and dried oregano.",
+      "Season dressing with salt and pepper.",
+      "Drizzle dressing over the salad.",
+      "Garnish with fresh oregano and serve immediately."
+    ]
+  },
+  {
+    id: 10,
+    title: "Banana Bread",
+    description: "Moist and sweet quick bread perfect for breakfast or snacks",
+    cookTime: "70 mins",
+    servings: 8,
+    difficulty: "Easy",
+    image: "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=400&h=300&fit=crop",
+    category: "Dessert",
+    ingredients: [
+      "3 ripe bananas, mashed",
+      "⅓ cup melted butter",
+      "¾ cup sugar",
+      "1 egg, beaten",
+      "1 teaspoon vanilla extract",
+      "1 teaspoon baking soda",
+      "Pinch of salt",
+      "1½ cups all-purpose flour",
+      "Optional: ½ cup chopped walnuts"
+    ],
+    instructions: [
+      "Preheat oven to 350°F (175°C) and grease a 9x5 inch loaf pan.",
+      "In a large bowl, mix melted butter with mashed bananas.",
+      "Stir in sugar, beaten egg, and vanilla extract.",
+      "Add baking soda and salt, mix well.",
+      "Gradually add flour, stirring until just combined.",
+      "Fold in walnuts if using.",
+      "Pour batter into prepared loaf pan.",
+      "Bake for 60-65 minutes until a toothpick comes out clean.",
+      "Cool in pan for 10 minutes before removing to wire rack."
+    ]
   }
 ];
